@@ -19,6 +19,7 @@ Education
 Work experience
 ======
 **tbc**
+
 <!--
 * Spring 2024: Academic Pages Collaborator
   * Github University
