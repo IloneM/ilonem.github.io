@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Nilo Schwencke"
   pronouns         : # example: "he/him"  
-  bio              : "PhD @ [LISN](https://www.lisn.upsaclay.fr/) on PINNs"
+  bio              : "PhD @ <a href=\"https://www.lisn.upsaclay.fr/\">LISN</a> on PINNs"
   location         : "Gif-sur-Yvette/France"
   employer         : "Paris-Saclay University"
   uri              : # URL
