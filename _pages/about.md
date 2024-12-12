@@ -6,8 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
-Academic webpage
-======
--->
 This is my work in progress academic webpage
