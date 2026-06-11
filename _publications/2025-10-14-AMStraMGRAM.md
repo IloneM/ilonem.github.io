@@ -8,9 +8,9 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2510.15998'
 citation: 'Nilo Schwencke, Cyriaque Rousselot, Alena Shilova, Cyril Furtlehner, &quot;AMStraMGRAM: Adaptive Multi-cutoff Strategy Modification for ANaGRAM.&quot; arXiv, 2025.'
 ---
-[Access paper here](https://arxiv.org/abs/2510.15998){:target="_blank"}
 
 **BibTeX:**
+{% raw %}
 ```bibtex
 @misc{schwencke2025amstramgram,
   title={{AMStraMGRAM}: Adaptive Multi-cutoff Strategy Modification for {ANaGRAM}},
@@ -21,3 +21,4 @@ citation: 'Nilo Schwencke, Cyriaque Rousselot, Alena Shilova, Cyril Furtlehner, 
   primaryClass={cs.LG}
 }
 ```
+{% endraw %}

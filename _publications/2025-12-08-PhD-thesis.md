@@ -13,9 +13,10 @@ This dissertation addresses limitations in Physics-Informed Neural Networks (PIN
 
 **Supervisor:** Cyril Furtlehner (TAU Team, INRIA Saclay – A&O–LISN–Paris-Saclay University–CNRS)
 
-[Access on theses.fr](https://theses.fr/2025UPASG087){:target="_blank"} &nbsp;|&nbsp; [Download PDF]({{ base_path }}/files/thesis-Nilo-Schwencke-2025.pdf)
+[Download PDF]({{ base_path }}/files/thesis-Nilo-Schwencke-2025.pdf)
 
 **BibTeX:**
+{% raw %}
 ```bibtex
 @phdthesis{schwencke2025phd,
   title={Gradients naturels et m{\'{e}}thodes {\`{a}} noyaux pour les r{\'{e}}seaux de neurones inform{\'{e}}s par la physique ({PINNs})},
@@ -25,3 +26,4 @@ This dissertation addresses limitations in Physics-Informed Neural Networks (PIN
   url={https://theses.fr/2025UPASG087}
 }
 ```
+{% endraw %}

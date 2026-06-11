@@ -15,6 +15,7 @@ Master thesis applying Physics-Informed Neural Networks (PINNs) to the simulatio
 [Download PDF]({{ base_path }}/files/master-thesis-Nilo-Schwencke-2023.pdf)
 
 **BibTeX:**
+{% raw %}
 ```bibtex
 @mastersthesis{schwencke2023master,
   title={Simulation of lithium ions batteries using physics informed neural networks},
@@ -23,3 +24,4 @@ Master thesis applying Physics-Informed Neural Networks (PINNs) to the simulatio
   year={2023}
 }
 ```
+{% endraw %}

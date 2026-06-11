@@ -8,9 +8,9 @@ venue: 'EurIPS 2025 Workshop DiffSys'
 paperurl: 'https://openreview.net/forum?id=KjyGLUleWh'
 citation: 'Julien Marie-Anne, Cyriaque Rousselot, Nilo Schwencke, Alena Shilova, &quot;Implicit function theorem in Physics-Informed Neural Networks to solve parameterized differential equations.&quot; EurIPS 2025 Workshop DiffSys, 2025.'
 ---
-[Access paper here](https://openreview.net/forum?id=KjyGLUleWh){:target="_blank"}
 
 **BibTeX:**
+{% raw %}
 ```bibtex
 @inproceedings{marieanne2025ift,
   title={Implicit function theorem in {Physics-Informed Neural Networks} to solve parameterized differential equations},
@@ -20,3 +20,4 @@ citation: 'Julien Marie-Anne, Cyriaque Rousselot, Nilo Schwencke, Alena Shilova,
   url={https://openreview.net/forum?id=KjyGLUleWh}
 }
 ```
+{% endraw %}
