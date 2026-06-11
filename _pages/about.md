@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [OCKHAM Team](https://team.inria.fr/ockham/), INRIA; LIP, ENS Lyon; CNRS, under the supervision of [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/) and [Nelly Pustelnik](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/pustelnik-nelly). My research revolves around **Scientific Machine Learning (SciML)**, **numerical analysis**, and **kernel methods**.
+I am a Postdoctoral Researcher at the [OCKHAM Team](https://team.inria.fr/ockham/) (INRIA; LIP, ENS Lyon; CNRS), under the supervision of [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/) and [Nelly Pustelnik](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/pustelnik-nelly). My research revolves around **Scientific Machine Learning (SciML)**, **numerical analysis**, and **kernel methods**.
 
 I completed my PhD in December 2025 at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), under the supervision of [Cyril Furtlehner](https://pages.saclay.inria.fr/cyril.furtlehner/) (TAU Team, INRIA Saclay – A&O–LISN–CNRS). My dissertation developed improved training schemes for PINNs combining natural gradients and kernel methods.
 
