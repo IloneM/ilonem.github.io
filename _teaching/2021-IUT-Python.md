@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Python"
 permalink: /teaching/2021-IUT-Python
 venue: "IUT d’Orsay, Université Paris-Saclay"
-date: 2021
+date: 2021-09-01
 location: "Gif-sur-Yvette, France"
 ---
 

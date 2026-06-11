@@ -4,7 +4,7 @@ collection: teaching
 type: "Deep Learning (Master MVA)"
 permalink: /teaching/2021-MVA-DL
 venue: "CentraleSupélec"
-date: 2021
+date: 2021-09-01
 location: "Gif-sur-Yvette, France"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Algorithms and Graphical Programming (Undergraduate, Year 2)"
 permalink: /teaching/2023-Algorithms-Graphics
 venue: "Université Paris-Saclay"
-date: 2023-2024
+date: 2023-09-01
 location: "Orsay, France"
 ---
 
