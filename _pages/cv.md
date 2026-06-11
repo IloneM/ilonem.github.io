@@ -36,9 +36,11 @@ Supervision
 
 Service
 ======
-* **Mini-symposium organizer** — 12th French Biennial of Applied and Industrial Mathematics (SMAI), Carcans-Maubuisson, June 2025  
+* **Mini-symposium organizer** — 12th French Biennial of Applied and Industrial Mathematics (SMAI), Carcans-Plage, June 2025  
   *Machine Learning for Solving Direct and Inverse Problems in Partial Differential Equations*
 
+* **Reviewer** — Neural Information Processing Systems (NeurIPS), 40th edition, 2026
+* **Reviewer** — International Conference on Machine Learning (ICML), 43th edition, 2026
 * **Reviewer** — International Conference on Learning Representations (ICLR), 14th edition, 2025
 * **Reviewer** — International Conference on Learning Representations (ICLR), 13th edition, 2024
 
@@ -49,21 +51,16 @@ Invitations
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+See the [Publications](/publications/) page.
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+See the [Talks](/talks/) page.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See the [Teaching](/teaching/) page.
+
 Languages
 ======
 * Spanish — native speaker

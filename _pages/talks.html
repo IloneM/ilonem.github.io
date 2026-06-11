@@ -5,12 +5,40 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+{% assign upcoming = site.talks | where_exp: "post", "post.date >= site.time" %}
+{% if upcoming.size > 0 %}
+<h2 id="upcoming-talks">Upcoming Talks</h2>
+{% for post in upcoming %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 {% endif %}
 
+<h2>Conferences</h2>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == "Conference talk" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Workshops &amp; Schools</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == "Workshop talk" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Seminars</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == "Seminar" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>PhD Defense</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == "PhD Defense" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: "Addressing Spectral Bias in PINNs"
 collection: talks
-type: "Talk"
+type: "Workshop talk"
 permalink: /talks/2025-02-10-SpectralBias-SCALP
 venue: "SCALP Kick-off, LISN, Paris-Saclay University – CNRS"
 date: 2025-02-10

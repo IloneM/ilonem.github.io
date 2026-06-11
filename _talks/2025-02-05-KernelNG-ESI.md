@@ -1,7 +1,7 @@
 ---
 title: "Kernelizing natural gradient, with applications to PINNs"
 collection: talks
-type: "Talk"
+type: "Workshop talk"
 permalink: /talks/2025-02-05-KernelNG-ESI
 venue: "Infinite-dimensional Geometry: Theory and Applications, Erwin Schrödinger International Institute for Mathematics and Physics (ESI)"
 date: 2025-02-05

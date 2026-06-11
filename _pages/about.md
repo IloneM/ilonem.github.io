@@ -17,11 +17,11 @@ My research interests are:
 - Connections between neural network-based solvers and classical numerical methods (Galerkin methods, FEM)
 - Reproducing Kernel Hilbert Spaces (RKHS)
 
-Please refer to my [publications](/publications/) and [talks](/talks/) pages for a list of my recent research activities. I am also a contributor to [SciMBA](https://www.scimba.org/), an open-source SciML library implementing PINNs, neural Galerkin schemes and natural gradient techniques for solving parametric PDEs.
+Please refer to my [publications](/publications/) and [talks](/talks/) pages for a list of my recent research activities, and to [upcoming talks](/talks/#upcoming-talks) for future venues. I am also a contributor to [SciMBA](https://www.scimba.org/), an open-source SciML library implementing PINNs, neural Galerkin schemes and natural gradient techniques for solving parametric PDEs.
 
 ## Short bio
 
 - **2026–present** Postdoctoral Researcher at [OCKHAM Team](https://team.inria.fr/ockham/), INRIA; LIP, ENS Lyon; CNRS, France
-- **2020–2025** PhD in Computer Science at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
+- **2023–2025** PhD in Computer Science at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
 - **2018–2023** Master in Mathematics at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/), Germany 
 - **2015–2018** *Diplôme d'Ingénieur* at [École polytechnique](https://www.polytechnique.edu/), France

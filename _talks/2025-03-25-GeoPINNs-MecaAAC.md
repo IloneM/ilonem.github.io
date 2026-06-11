@@ -1,7 +1,7 @@
 ---
 title: "Geometrical perspectives on Physics-Informed Neural Networks"
 collection: talks
-type: "Talk"
+type: "Workshop talk"
 permalink: /talks/2025-03-25-GeoPINNs-MecaAAC
 venue: "Méca–AAC day, LISN, Paris-Saclay University – CNRS"
 date: 2025-03-25
