@@ -10,7 +10,19 @@ Gemfile.lock
 
 # Ingore files created by npm
 node_modules
-package-lock.json
 # Local Jekyll gems
 vendor/
 .bundle/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Protected-page private inputs (see PROTECTED_PAGE.md)
+private-src/
+*.private.html
+protected-page-bundle*.zip
+
+# Local secrets
+.env
+.env.*

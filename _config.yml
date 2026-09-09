@@ -287,6 +287,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # StatiCrypt-protected page (see PROTECTED_PAGE.md) -- exclude from sitemap.xml.
+  # The route is unlinked and noindex'd; this is an additional, defense-in-depth
+  # exclusion, not the security mechanism.
+  - scope:
+      path: "v254x5dnezt2"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
