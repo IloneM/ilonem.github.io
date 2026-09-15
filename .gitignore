@@ -22,6 +22,8 @@ vendor/
 private-src/
 *.private.html
 protected-page-bundle*.zip
+architecture_sweep*.zip
+architecture_sweep_run/
 
 # Local secrets
 .env

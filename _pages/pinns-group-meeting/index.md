@@ -12,7 +12,7 @@ The group holds regular meetings, in a fairly informal format, to present
 work in progress, discuss scientific and technical questions, and encourage
 exchange between people interested in these topics.
 
-**Organizers:** [Antoine Venaille](https://perso.ens-lyon.fr/antoine.venaille/), [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/), [Nelly Pustelnik](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/pustelnik-nelly), and [Nilo Schwencke](https://nilo.schwencke.me).
+**Organizers:** [Antoine Venaille](https://perso.ens-lyon.fr/antoine.venaille/), [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/), [Nelly Pustelnik](https://perso.ens-lyon.fr/nelly.pustelnik/), and [Nilo Schwencke](https://nilo.schwencke.me).
 
 **Location:** Room M7 101
 
