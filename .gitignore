@@ -24,6 +24,8 @@ private-src/
 protected-page-bundle*.zip
 architecture_sweep*.zip
 architecture_sweep_run/
+omega0_sweep*.zip
+omega0_sweep/
 
 # Local secrets
 .env
