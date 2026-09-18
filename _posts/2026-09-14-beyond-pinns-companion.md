@@ -12,7 +12,7 @@ excerpt: "A companion walkthrough to our paper introducing a unified Gauss--Newt
 
 This post is intended as a companion to our preprint
 [*Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for
-Neural and Hybrid PDE Solvers*]({{ base_path }}/publication/2026-09-14-Beyond-PINNs-arXiv)
+Neural and Hybrid PDE Solvers*]({{ base_path }}/publication/2026-09-14-Beyond-PINNs)
 (Nilo Schwencke, Roland Maier), offering a more discursive account of the
 paper's main ideas than space in the manuscript allows.
 
