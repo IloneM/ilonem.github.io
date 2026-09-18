@@ -2,7 +2,7 @@
 title: "Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for Neural and Hybrid PDE Solvers"
 collection: publications
 category: preprints
-permalink: /publication/2026-09-14-Beyond-PINNs-arXiv
+permalink: /publication/2026-09-14-Beyond-PINNs
 excerpt: "We introduce a unified Gauss--Newton and Petrov--Galerkin framework for neural and finite element PDE solvers. This leads both to a Gauss--Newton approach to weak formulations of PINNs and to a hybrid finite element--neural strategy acting on complementary approximation spaces."
 date: 2026-09-14
 venue: 'arXiv preprint'
