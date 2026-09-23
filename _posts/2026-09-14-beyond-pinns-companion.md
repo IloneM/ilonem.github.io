@@ -16,7 +16,7 @@ Neural and Hybrid PDE Solvers*]({{ base_path }}/publication/2026-09-14-Beyond-PI
 (Nilo Schwencke, Roland Maier), offering a more discursive account of the
 paper's main ideas than space in the manuscript allows.
 
-<!-- TODO: swap in the arXiv/HAL link once the preprint is live. -->
+Code: [github.com/IloneM/Beyond-PINNs](https://github.com/IloneM/Beyond-PINNs)
 
 This companion piece is currently under construction and should be made
 available in due course.
